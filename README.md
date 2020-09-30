@@ -37,6 +37,20 @@ The write cycle begins by applying the value to be written to the bit lines. If 
 
 ## 3. Block Diagram
 
+![](https://user-images.githubusercontent.com/72131007/94683992-04051200-0345-11eb-988e-a979c6c6df52.PNG)
+- The SRAM block consists of 8 major blocks:
+  - The bit-cell array
+  - Address Decoder
+  - Sense Amplifier
+  - Word-line driver
+  - Precharge circuit
+  - Write Driver
+  - Control logic
+  - Column MUX.
+
+## 4. Block Description
+- **6T-SRAM cell**
+  
 
 
 
